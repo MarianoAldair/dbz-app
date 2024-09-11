@@ -1,0 +1,13 @@
+<h1>{{ 'Dbz main page' | titlecase }} </h1>
+<hr>
+<div class="row">
+  <div class="col-6">
+    <dbz-list [characters]="characters"
+              (onDeleteCharacterEmitter)="onDeleteCharacter($event)">
+    </dbz-list>
+  </div>
+  <div class="col-6">
+    <dbz-add-character (onCharacter)="registerCharacter($event)">
+    </dbz-add-character>
+  </div>
+</div>
