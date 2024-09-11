@@ -1,4 +1,4 @@
-# BasesApp
+# DbzApp
 
 Este proyecto fue desarrollado con [Angular CLI](https://github.com/angular/angular-cli) en su versión 16.2.14. en septiembre de 2024 (Córdoba, Argentina) con el fin de demostrar los conocimientos adquiridos al finalizar las primeras seis secciones de la formación profesional [Angular de cero a experto](https://www.udemy.com/course/angular-fernando-herrera/), dictada por [Fernando Herrera](https://fernando-herrera.com). Los temas y los conocimientos son acumulativos, por lo que le invito a explorar el [proyecto anterior](https://github.com/MarianoAldair/bases-app), donde podrá visualizar los contenidos abarcados en las primeras cuatro secciones. 
 
